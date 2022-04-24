@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T11:40:42.144Z" agent="5.0 (Macintosh)" etag="VAMFCabb6liwLV1n6PC3" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-24T12:06:41.646Z" agent="5.0 (Macintosh)" etag="oIwedsBC4yjiPSdbtMH1" version="17.4.6" type="github">
   <diagram id="YPu3gUVJddb1r6JpXxtX" name="Page-1">
     <mxGraphModel dx="946" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,16 @@
           <mxGeometry x="340" y="80" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ehcvicH4qVkx-c4z3jnV-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="470" height="140" as="geometry" />
+          <mxGeometry x="160" y="200" width="480" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ehcvicH4qVkx-c4z3jnV-5" value="ontology extractor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ehcvicH4qVkx-c4z3jnV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="480" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ehcvicH4qVkx-c4z3jnV-7" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="420" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

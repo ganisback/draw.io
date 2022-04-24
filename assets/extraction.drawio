@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T14:44:30.164Z" agent="5.0 (Macintosh)" etag="6kJbZZk5Kp3fUAs1W__Z" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-24T14:45:56.288Z" agent="5.0 (Macintosh)" etag="5CM8pJlZyzGF5s8xLsjc" version="17.4.6" type="github">
   <diagram id="YPu3gUVJddb1r6JpXxtX" name="Page-1">
     <mxGraphModel dx="946" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="ehcvicH4qVkx-c4z3jnV-29" value="&lt;font color=&quot;#FF3333&quot;&gt;update relation characteristic&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;rotation=-20;" vertex="1" parent="1">
           <mxGeometry x="400" y="370" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ehcvicH4qVkx-c4z3jnV-32" value="&lt;font color=&quot;#FF3333&quot;&gt;new module&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="680" y="150" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

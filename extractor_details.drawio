@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T15:28:30.107Z" agent="5.0 (Macintosh)" etag="VKMcv_a0BGmnCq6xKbbb" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T00:36:58.107Z" agent="5.0 (Macintosh)" etag="-j-NkrEsSEl1Nrk6k6bl" version="17.4.6" type="github">
   <diagram id="XqnaKPGImywsLeecfN6a" name="Page-1">
     <mxGraphModel dx="946" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="3Jk47x3_0CZ66x86huAH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Jk47x3_0CZ66x86huAH-1" target="3Jk47x3_0CZ66x86huAH-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Jk47x3_0CZ66x86huAH-1" value="predefined pair" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3Jk47x3_0CZ66x86huAH-1" value="predefined pair module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Jk47x3_0CZ66x86huAH-3" value="ontology" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
             <mxPoint x="480" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Jk47x3_0CZ66x86huAH-13" value="check the formula one by one" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3Jk47x3_0CZ66x86huAH-13" value="formula module for checking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Jk47x3_0CZ66x86huAH-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">

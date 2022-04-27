@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T12:36:39.143Z" agent="5.0 (Macintosh)" etag="j_jSETLHI41oK5-DYahg" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-27T12:42:03.240Z" agent="5.0 (Macintosh)" etag="4HfhwePBvrJV0Lbur6e4" version="17.4.6" type="github">
   <diagram id="bNzipRwkta9MeBwiPbgG" name="Page-1">
     <mxGraphModel dx="946" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,12 @@
         </mxCell>
         <mxCell id="lk4psk_2WtwCLvVxGfQ_-31" value="has part of" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="340" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lk4psk_2WtwCLvVxGfQ_-32" value="Money" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="414" y="300" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lk4psk_2WtwCLvVxGfQ_-33" value="Economy" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

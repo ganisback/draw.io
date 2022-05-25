@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T05:41:14.865Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="MClXh3w_eT1Ianv3EcOo" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T05:44:36.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="0zfFFBHK55cFU1WHj4h3" version="16.6.4" type="github">
   <diagram id="iFPrayUOstsy7mWOcn4y" name="Page-1">
     <mxGraphModel dx="946" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,7 +35,10 @@
           <mxGeometry x="596" y="222" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="j4uhK3s5fZXecIx1Jz2g-9" value="Events sender" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
-          <mxGeometry x="210" y="162" width="100" height="60" as="geometry" />
+          <mxGeometry x="210" y="120" width="160" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="j4uhK3s5fZXecIx1Jz2g-10" value="1. Store Service&lt;br&gt;2. Ergo query expansion&lt;br&gt;3. ES augmentation" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="170" height="102" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

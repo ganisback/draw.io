@@ -1,1 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T03:00:53.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.0" etag="7VXg6ye8EcQFjc7vUtlM" type="github"><diagram id="QaE3Z9Qkm4-l8lHN6Vvl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-10T03:08:44.308Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="I7yebmbjfOEn4DxlWh7o" version="20.3.0" type="github">
+  <diagram id="QaE3Z9Qkm4-l8lHN6Vvl" name="Page-1">
+    <mxGraphModel dx="1002" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7Yg9xgGQCldjnBUZ5oLN-1" value="Release Image" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="305" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Yg9xgGQCldjnBUZ5oLN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="265" y="257" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Yg9xgGQCldjnBUZ5oLN-4" value="&lt;div style=&quot;line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;cp.stg.icr.io&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="265" width="77.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7Yg9xgGQCldjnBUZ5oLN-5" value="&lt;div style=&quot;line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;a style=&quot;text-decoration-line: none;&quot; href=&quot;http://wcp-catalog-api-docker-local.artifactory.swg-devops.com/watsondata/wkc-search_dev_cpd_45x:4.5.44&quot;&gt;&lt;span style=&quot;color: rgb(0, 56, 132);&quot;&gt;artifactory.swg-devops.com&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="292" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7Yg9xgGQCldjnBUZ5oLN-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.47;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7Yg9xgGQCldjnBUZ5oLN-1" target="7Yg9xgGQCldjnBUZ5oLN-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Yg9xgGQCldjnBUZ5oLN-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7Yg9xgGQCldjnBUZ5oLN-8" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7Yg9xgGQCldjnBUZ5oLN-10" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Yg9xgGQCldjnBUZ5oLN-2" target="7Yg9xgGQCldjnBUZ5oLN-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="380" as="sourcePoint" />
+            <mxPoint x="450" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="365" y="340" />
+              <mxPoint x="250" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

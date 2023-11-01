@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T12:12:19.034Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="HhFx2ELmZSWALatOFmFU" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T12:38:13.377Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="XZYEmZpIQykUwFwebTlu" version="22.0.8" type="github">
   <diagram name="Page-1" id="X0XTV32fZl-mw8OlVuHK">
     <mxGraphModel dx="1010" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,12 +28,6 @@
         <mxCell id="1WVl6WSyaPoKhHcU2AQl-9" value="HPC rest server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1WVl6WSyaPoKhHcU2AQl-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1WVl6WSyaPoKhHcU2AQl-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="370" as="sourcePoint" />
-            <mxPoint x="450" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1WVl6WSyaPoKhHcU2AQl-12" value="dbcloud rest server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="538" y="280" width="120" height="40" as="geometry" />
         </mxCell>
@@ -61,20 +55,41 @@
         <mxCell id="1WVl6WSyaPoKhHcU2AQl-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="110" width="590" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1WVl6WSyaPoKhHcU2AQl-18" value="HPC 算力管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-18" value="HPC 算力管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="200" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1WVl6WSyaPoKhHcU2AQl-19" value="云算力管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-19" value="云算力管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="491" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1WVl6WSyaPoKhHcU2AQl-20" value="用户与角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-20" value="用户与角色" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="350" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1WVl6WSyaPoKhHcU2AQl-21" value="应用前台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-21" value="应用前台 （GUI）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1WVl6WSyaPoKhHcU2AQl-22" value="计费系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-22" value="计费系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="630" y="140" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.4;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1WVl6WSyaPoKhHcU2AQl-9" target="1WVl6WSyaPoKhHcU2AQl-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="450" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1WVl6WSyaPoKhHcU2AQl-18" target="1WVl6WSyaPoKhHcU2AQl-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="450" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1WVl6WSyaPoKhHcU2AQl-20" target="1WVl6WSyaPoKhHcU2AQl-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="450" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-27" value="说明： &lt;br&gt;1.蓝色区域为dbcloud team负责。红色区域为西安负责&lt;br&gt;2.HPC rest Server 提供功能：作业提交，作业查询，队列查询，slurm集群状况GPU usage，用户认证，以及用户映射，注意用户映射也有可能通过脚本的方式&lt;br&gt;3.Slurm operator 提供可配置化的功能，比如提供接口增加worker 节点，定制节点的memory，以及GPU，CPU等资源，支持singularity&lt;br&gt;4. HPC-bridge 主要是通过k8s 来提交slurm 作业，这个可以作为二期方案" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="500" width="600" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

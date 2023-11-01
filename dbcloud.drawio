@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T12:10:45.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nkhviWTWCUZJwv3fmxXv" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T12:12:19.034Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="HhFx2ELmZSWALatOFmFU" version="22.0.8" type="github">
   <diagram name="Page-1" id="X0XTV32fZl-mw8OlVuHK">
     <mxGraphModel dx="1010" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
             <mxPoint x="450" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1WVl6WSyaPoKhHcU2AQl-12" value="dbcloud rest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-12" value="dbcloud rest server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="538" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1WVl6WSyaPoKhHcU2AQl-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1WVl6WSyaPoKhHcU2AQl-12">
@@ -65,13 +65,16 @@
           <mxGeometry x="200" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1WVl6WSyaPoKhHcU2AQl-19" value="云算力管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="140" width="120" height="40" as="geometry" />
+          <mxGeometry x="491" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1WVl6WSyaPoKhHcU2AQl-20" value="用户与角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1WVl6WSyaPoKhHcU2AQl-21" value="应用前台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-22" value="计费系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="140" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

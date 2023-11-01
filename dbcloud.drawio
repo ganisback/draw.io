@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T11:56:39.983Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="oF_kBxmmAkdesgfForgA" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T12:10:45.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nkhviWTWCUZJwv3fmxXv" version="22.0.8" type="github">
   <diagram name="Page-1" id="X0XTV32fZl-mw8OlVuHK">
     <mxGraphModel dx="1010" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="1WVl6WSyaPoKhHcU2AQl-2" value="Slurm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="200" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1WVl6WSyaPoKhHcU2AQl-3" value="Ray" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-3" value="HPC-bridge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="371" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1WVl6WSyaPoKhHcU2AQl-4" value="算力平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -45,6 +45,33 @@
         </mxCell>
         <mxCell id="1WVl6WSyaPoKhHcU2AQl-14" value="应用后台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1WVl6WSyaPoKhHcU2AQl-5" target="1WVl6WSyaPoKhHcU2AQl-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1WVl6WSyaPoKhHcU2AQl-3" target="1WVl6WSyaPoKhHcU2AQl-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="110" width="590" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-18" value="HPC 算力管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-19" value="云算力管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-20" value="用户与角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-21" value="应用前台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

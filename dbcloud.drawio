@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T11:38:36.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="7lxdeirSIaKqUW0tsDFY" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T11:41:17.924Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zDqYnskMCUKNkoR0l5HU" version="22.0.8" type="github">
   <diagram name="Page-1" id="X0XTV32fZl-mw8OlVuHK">
-    <mxGraphModel>
+    <mxGraphModel dx="1010" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-1" value="K8s" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="430" width="460" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-2" value="Slurm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1WVl6WSyaPoKhHcU2AQl-3" value="Ray" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
